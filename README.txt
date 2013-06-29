@@ -17,24 +17,6 @@ Software that was used to create and work with these files:
 Type "make" to magically generate all bitmap versions from the source .svg
 files.
 
-French translations were provided by Tyler Tidman VA3DGN and verified by Serge
-Langois VE2AWR and Claude Lalande VE2LCF.  Inuktitut (Inuit) translations were
-provided by Jamie Savikataaq and verified by TBD.  "Amateur Radio Emergency
-Service" => tuavirnaqtulirinirmut tusarutialaat => "TBD", "National Traffic
-System" => tusarutilirinikkut aaqiumatitsijit => "TBD", "pride" => ukpirnarniq
-=> "TBD", "service" => pijitsirniq => "TBD", "tradition" => piqqusiq =>
-"culture", "innovation" => akausigiaqtitsiniq => "TBD".
-
-The embroidery file formats were provided courtesy of Shannon Wheeler-Bradley.
-First, the background fill colour was omitted and the circle, text and inset
-image components were broken apart to produce several temporary 400x400 pixel
-PNG files.  An anchor stitch was placed under a satin stitch to render the
-outer circle and allow for cutting away the surrounding fabric more cleanly.
-The text was drawn using a satin stitch.  A fill stitch was used to render the
-inner part of the logo.  These intermediate files were then combined into a
-single file and converted to various other industry standard proprietary
-formats.
-
 References:
 [0]http://rac.ca/en/rac/services/logos
 [1]http://en.wikipedia.org/wiki/File:ARES_Color_Logo.svg
