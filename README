@@ -4,19 +4,21 @@ format [3] is now being used for all auto-generated bitmaps.  The chosen
 fonts, "DejaVu Sans Bold", "DejaVu Sans", "DejaVu Sans Bold Condensed" and
 "DejaVu Sans Condensed" [4] are provided gratis under a free license.
 
-Inspiration for these logos was provided by the old RAC logos donated by James
-Ewen VE6SRV.
+French translations were provided by Tyler Tidman VA3DGN and verified by Serge
+Langois VE2AWR and Claude Lalande VE2LCF.  Inspiration for these logos was
+provided by the old RAC logos donated by James Ewen VE6SRV.
 
 Software that was used to create and work with these files:
   - GNU Make (3.81) [5]
   - Inkscape (0.46, 0.47, 0.48) [6]
   - Imagemagick (6.3.7, 6.6.0-4) [7]
-  - Debian Linux "Squeeze" and "Wheezy" (6.0, 7.0) [8]
+  - Debian Linux (6.0, 7.0) [8]
 
 Type "make" to magically generate bitmap versions from the source vector .svg
 files.
 
 References:
+[z]http://github.com/tylert/rac_logos
 [0]http://rac.ca/en/rac/services/logos
 [2]http://w3.org/Graphics/SVG
 [3]http://libpng.org/pub/png
