@@ -18,7 +18,6 @@ Type "make" to magically generate bitmap versions from the source vector .svg
 files.
 
 References:
-[z]http://github.com/tylert/rac_logos
 [0]http://rac.ca/en/rac/services/logos
 [2]http://w3.org/Graphics/SVG
 [3]http://libpng.org/pub/png
