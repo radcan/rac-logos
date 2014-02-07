@@ -15,7 +15,7 @@
    height="768.87872"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.3.1 r9886"
    version="1.0"
    sodipodi:docname="rac_round.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -23,164 +23,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective10" />
-    <inkscape:perspective
-       id="perspective2633"
-       inkscape:persp3d-origin="70.721497 : 47.147664 : 1"
-       inkscape:vp_z="141.44299 : 70.721497 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 70.721497 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2795"
-       inkscape:persp3d-origin="160 : 213.33333 : 1"
-       inkscape:vp_z="320 : 320 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 320 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2873"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2943"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <foreignObject
-       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       id="foreignObject3009">
-      <i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" />
-    </foreignObject>
-    <inkscape:perspective
-       id="perspective3564"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective2513" />
-    <foreignObject
-       id="foreignObject2511"
-       height="1"
-       width="1"
-       y="0"
-       x="0"
-       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
-      <i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" />
-    </foreignObject>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective2509" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective2507" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 320 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="320 : 320 : 1"
-       inkscape:persp3d-origin="160 : 213.33333 : 1"
-       id="perspective2505" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 70.721497 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="141.44299 : 70.721497 : 1"
-       inkscape:persp3d-origin="70.721497 : 47.147664 : 1"
-       id="perspective2503" />
-    <inkscape:perspective
-       id="perspective2501"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective2565" />
-    <foreignObject
-       id="foreignObject2563"
-       height="1"
-       width="1"
-       y="0"
-       x="0"
-       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
-      <i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" />
-    </foreignObject>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective2561" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective2559" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 320 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="320 : 320 : 1"
-       inkscape:persp3d-origin="160 : 213.33333 : 1"
-       id="perspective2557" />
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 70.721497 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="141.44299 : 70.721497 : 1"
-       inkscape:persp3d-origin="70.721497 : 47.147664 : 1"
-       id="perspective2555" />
-    <inkscape:perspective
-       id="perspective2553"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       sodipodi:type="inkscape:persp3d" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -192,7 +35,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.93252678"
-     inkscape:cx="383.97903"
+     inkscape:cx="386.12374"
      inkscape:cy="384.43936"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -202,7 +45,7 @@
      inkscape:window-width="1392"
      inkscape:window-height="972"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="31"
      borderlayer="true"
      inkscape:window-maximized="0" />
   <metadata
@@ -213,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Tyler Tidman VA3DGN</dc:title>
@@ -449,7 +292,7 @@
          sodipodi:nodetypes="cccccccccc" />
       <path
          transform="matrix(-0.76644543,0.0489188,-0.0489188,-0.76644543,989.16238,809.4026)"
-         d="m 697.89868,298.74078 a 430.11981,430.11981 0 1 1 -860.23962,0 430.11981,430.11981 0 1 1 860.23962,0 z"
+         d="m 697.89868,298.74078 c 0,237.54862 -192.5712,430.11982 -430.11981,430.11982 -237.548613,0 -430.11981,-192.5712 -430.11981,-430.11982 0,-237.548609 192.571197,-430.11981 430.11981,-430.11981 237.54861,0 430.11981,192.571201 430.11981,430.11981 z"
          sodipodi:ry="430.11981"
          sodipodi:rx="430.11981"
          sodipodi:cy="298.74078"

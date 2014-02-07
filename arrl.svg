@@ -12,7 +12,6 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    i:viewOrigin="39.0996 -23.771"
@@ -26,140 +25,14 @@
    xml:space="preserve"
    id="svg3003"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="ares_us (copy).svg"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="arrl.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1"
    style="overflow:visible"><svg:defs
-   id="defs3185"><inkscape:perspective
-   sodipodi:type="inkscape:persp3d"
-   inkscape:vp_x="0 : 70.721497 : 1"
-   inkscape:vp_y="0 : 1000 : 0"
-   inkscape:vp_z="141.44299 : 70.721497 : 1"
-   inkscape:persp3d-origin="70.721497 : 47.147664 : 1"
-   id="perspective96" />
-			<svg:foreignObject
-   id="foreignObject3009"
-   height="1"
-   width="1"
-   y="0"
-   x="0"
-   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
-				<i:pgfRef
-   xlink:href="#adobe_illustrator_pgf">
-				</i:pgfRef>
-			</svg:foreignObject>
-			
-		
-				
-			
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-						
-					
-					
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-					
-					
-					
-					
-					 
-				
-						
-					
-						
-						
-					
-						
-						
-					
-						
-					
-						
-						
-						
-						
-					
-						
-						
-					
-						
-						
-						
-						
-					
-						
-						
-					
-						
-						
-					
-						 
-						
-					
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-						
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-							
-						</svg:defs><sodipodi:namedview
-   inkscape:window-height="975"
-   inkscape:window-width="1400"
+   id="defs3185" /><sodipodi:namedview
+   inkscape:window-height="986"
+   inkscape:window-width="1920"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0"
    guidetolerance="10.0"
@@ -170,10 +43,10 @@
    pagecolor="#ffffff"
    id="base"
    inkscape:zoom="1.2"
-   inkscape:cx="134.0661"
+   inkscape:cx="135.73277"
    inkscape:cy="300"
    inkscape:window-x="0"
-   inkscape:window-y="25"
+   inkscape:window-y="31"
    inkscape:current-layer="svg3003"
    showgrid="false"
    borderlayer="true"
@@ -726,7 +599,7 @@ kplsdOOroNV7Yame2MRxj5n7dvselaL5c0HQ4PQ0jT4LGIgBhBGqFqdObAcmPuTl0YAcnmtRq8uc
 
 <cc:Work
    rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-     rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></svg:metadata></x:xmpmeta>
+     rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></svg:metadata></x:xmpmeta>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <xpacket />
 			</svg:metadata>
 		<svg:g
